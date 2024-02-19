@@ -311,6 +311,10 @@ Congratulations! You've successfully installed the Helper Add-On and can now enj
 ## Version History
 
 ### Version 1.3:**
+   - Added New Addons Panel in Helper Addon.
+   - This Panel Provide The Details Related To All Instaled And Enabled Addons in Blender.
+
+### Version 1.3:**
    - Added GitHub in Helper Resources Panel.
    - Improved Text Web Search functionalities.
    - Added advance query search for Text Web Search Section.
