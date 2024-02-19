@@ -1,21 +1,59 @@
+LICENSE
+
 MIT License
 
-Copyright (c) 2023 Lokisinaryblender
+© 2023 lokisinary
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Warranty Disclaimer
+
+**The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The authors or copyright holders shall not be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.**
+
+## Limitation of Liability
+
+**You acknowledge and agree that any use of the Software is at your own risk. In no event shall the authors or copyright holders be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this Software, even if advised of the possibility of such damage.**
+
+**You agree to indemnify, defend, and hold harmless the authors and copyright holders from and against any and all claims, liabilities, expenses, damages, losses, and costs (including but not limited to reasonable attorneys' fees and court costs) arising out of or in connection with your use, misuse, or distribution of the Software, or any violation of these terms.**
+
+## Modifications and Discontinuation
+
+**The authors and copyright holders reserve the right to modify, update, or discontinue the Software at any time without prior notice. They are under no obligation to provide maintenance, support, updates, or bug fixes.**
+
+## Data Collection and Privacy
+
+**By using the Software, you understand and accept that any personal data or information you may provide when using the add-on, such as feedback, suggestions, or bug reports, is provided voluntarily. The authors and copyright holders will handle such information in accordance with their privacy policy, and you hereby consent to such processing.**
+
+## Third-Party Services and APIs
+
+**You acknowledge and agree that the use of third-party services, such as search engines, web content, or documentation accessed through the Software, is subject to the terms and conditions of those third parties. The authors and copyright holders are not responsible for the content, accuracy, or availability of third-party services or any consequences resulting from your use of them.**
+
+## Open-Source Components
+
+**The Software may include open-source components or libraries, each subject to its respective license terms. You agree to comply with all applicable open-source license terms when using the Software.**
+
+## Dispute Resolution and Governing Law
+
+**In the event of any dispute or claim arising out of or in connection with the Software or its use, you agree to resolve the matter through arbitration in accordance with the rules of the Indian Arbitration Association, and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.**
+
+## Acknowledgment and Endorsement
+
+**You acknowledge and agree that the Software is intended for use in conjunction with Blender software and may rely on third-party services and APIs. The authors and copyright holders do not guarantee the continued availability or functionality of such third-party services or APIs, and you acknowledge that the Software's performance may be affected by factors beyond their control.**
+
+**The authors and copyright holders do not endorse or promote any specific third-party services, websites, or content accessed through the Software. Any mention of such services, websites, or content is for informational purposes only.**
+
+----------------------------------------------------------------
+## Stay Connected
+
+Stay up-to-date with the latest news, updates, and announcements about the Helper Add-On:
+
+- Follow us on [Twitter](https://twitter.com/LokisinaryB) for news and updates.
+- Join the discussion and community engagement on our [GitHub repository](https://github.com/Lokisinaryblender/HelperAddon/releases).
+- Find us on [Gumroad](https://lokisinaryblender.gumroad.com/)
+
+For any questions or inquiries regarding the [README](readme) [LICENSE](LICENSE), [TERMS AND CONDITIONS](Terms_And_Conditions) [PRIVACY_POLICY](PrivacyPolicy), data collection, use of third-party services, use of open-source components, dispute resolution, acknowledgment, or any other matter related to the Software, please contact [lokisinary] at [lokisinaryblender@gmail.com].
+
+Thank you for using the Helper Add-On! We hope it enhances your Blender experience and helps you achieve new heights of creativity.
+
+Happy Blending!
